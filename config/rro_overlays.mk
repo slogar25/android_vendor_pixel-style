@@ -52,6 +52,7 @@ PRODUCT_PACKAGES += \
     PixelTetheringOverlay2021 \
     SettingsGoogleOverlayEvolutionX \
     SystemUIGXOverlay \
+	TrafficLightFaceOverlay \
     WildlifeSettingsVpnOverlay2022 \
     WildlifeSysuiVpnOverlay2022
 
